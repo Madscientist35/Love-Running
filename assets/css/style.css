@@ -70,7 +70,7 @@ nav a:hover {
   width: 100%;
   background-size: cover;
   background-position: center;
-  background: url(../img/form-bg.png) no-repeat center center;
+  background: url(/assets/images/main-image.png) no-repeat center center;
   /* padding: 0;
   margin:0; */
   animation-name: hero-zoom;
@@ -149,7 +149,7 @@ section {
 
 
 #times {
-    background-image: url(../img/DublinDocklands.png);
+    background-image: url(/assets/images/dublin-city.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -327,9 +327,9 @@ h2{
 }
 
     #circle-container{
-        width: 300px;
-        height: 300px;
-        padding: 30px;  
+        width: 400px;
+        height: 400px;
+        padding: 0px;  
         border-style: solid;
         border-color: #cccccc;
         border-width:1px;
@@ -339,7 +339,7 @@ h2{
 
      #circle-cover-bg{
         position: relative;
-        background:url(../img/video-mask.png) no-repeat center center;
+        background:url(/assets/images/video-mask.png) no-repeat center center;
         border-radius: 50%;
         height: 100%;
     }
